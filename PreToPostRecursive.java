@@ -4,8 +4,8 @@
  * needed to convert prefix expressions into postfix expressions via 
  * recursion. No other files are necessary for this program to work. The 
  * user is prompted for the file paths of the input file and the output file. 
- * Blank lines in the input file are ignored. White space in each read line 
- * is removed when prior to evaluating the validity of each prefix expression. 
+ * Blank lines in the input file are ignored. White space in each line 
+ * is removed prior to evaluating the validity of each prefix expression. 
  * 
  * All inputs and outputs are added into a single String variable, which is 
  * then written to the output file.
